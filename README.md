@@ -1,3 +1,3 @@
 # mychinycv
-Mon cv avec shinyapp
-https://greffinmackenson.shinyapps.io/myshinycv/
+Mon [cv](https://greffinmackenson.shinyapps.io/myshinycv/) avec shinyapp
+
